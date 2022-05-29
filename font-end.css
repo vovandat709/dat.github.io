@@ -1,0 +1,125 @@
+.info-web{
+    margin: 25px 70px 70px 80px;
+    font-family: "Hiragino Sans", "ヒラギノ角ゴ", sans-serif
+}
+
+.login-from{
+    float: right;
+   
+}
+.btn-login{
+    color: #282826;
+    font-size: 18px;
+    background-color: #fff;
+    font-weight: 750;
+    border-radius: 80px;
+    padding: 15px 27px;
+    cursor: pointer;
+}
+.btn-login:active{
+    background-color: #282826;
+    color: #fff;
+}
+.btn-sign{
+    color: #fff;
+    font-size: 18px;
+    padding-left: 5px;
+    background-color: #282826;
+    font-weight: 750;
+    border-radius: 80px;
+    padding: 15px 27px;
+    cursor: pointer;
+}
+.btn-sign:active{
+    background-color: #fff;
+    color: #282826;
+}
+.item-1{
+    color: #282826;
+    padding-right: 30px;
+    font-weight: 700;
+    font-size: 32px;
+    text-decoration: none;
+}
+.item-2{
+    color: #282826;
+    font-size: 24px;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+div.content-web{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 60px ;
+}
+.post-1{
+    font-size: 80px;
+    margin-bottom: 0;
+    width: 500px;
+ }
+ .post-2{
+     font-size: 80px;
+     color: #4E52FB;
+     margin-top: 0;
+     margin-bottom: 0;
+     width: 600px;
+ }
+ .post-3{
+     max-width: 350px;
+     font-size: 20px; 
+     line-height: 1.5;
+     color: #696969;
+ }
+ .button-email{
+     margin: 40px 0px 50px 0px;
+     position: relative;
+     width: 400px;
+ }
+ .btn-getstarted{
+     position: absolute;
+     color: #fff;
+     background-color: #282826;
+     font-size: 17px;
+     font-weight: 750;
+     border-radius: 80px;
+     padding: 15px 27px;
+     right: 0;
+     cursor: pointer;
+ }
+ .btn-getstarted:active{
+     background-color: #fff;
+     color: #282826;
+ }
+ .input{
+     position: absolute;
+     font-size: 17px;
+     border-radius: 80px;
+     padding: 15px 27px;
+     border-style: solid;
+     border-color: #282826;
+     width: 80%;
+ }
+ .social-1{
+    float: left;
+    font-size: 30px;
+    color: #c0bebe;
+    margin-top: 100px;
+}
+.social-2{
+    float: left;
+    font-size: 30px;
+    color: #c0bebe;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.social-3{
+    float: left;
+    font-size: 30px;
+    color: #c0bebe;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+div.photo{
+    margin-left: 70px;
+    margin-top: 10px;
+}
